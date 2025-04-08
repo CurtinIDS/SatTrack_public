@@ -17,4 +17,4 @@ The file format is `.csv` with the following columns:
 
 ### Feedback on the web app
 
-- Please submit a github issue to this repo, using the template provided.
+- Please submit a github issue to this repo. Choose "Bug Report" as the type of issue and fill in as much detail as you can.
